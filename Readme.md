@@ -6,23 +6,43 @@ Esse curso foi oferecido pela Suzano em parceria com a (Let's code) ADA, sendo u
 
 ### :white_check_mark: Conteúdo:
 
-##### Lógica de programação:                                                Lógica de programação II:
+##### Lógica de programação:                                                
 
-1. Variáveis, entradas e saídas;                                        1. Tuplas; 
-2. Operações lógicas;                                                         2. Dicionários; 
-3. Expressões condicionais;                                              3. Compreensão de listas e expressões geradoras;
-4. Malhas de repetição condicionais;                              4. Parâmetros e retorno de funções; 
-5. Malhas de repetição com contador;                           5. Conceitos de programação funcional; 
-6. Listas;                                                                               6. Tratamento de Exceção;  
-7. Funções de listas;                                                           7. Arquivos; 
+1. Variáveis, entradas e saídas;                                        
+
+2. Operações lógicas;                                                          
+
+3. Expressões condicionais;                                              
+
+4. Malhas de repetição condicionais;                               
+
+5. Malhas de repetição com contador;                           
+
+6. Listas;                                                                                
+
+7. Funções de listas;                                                          
+
 8. Strings;                                                                             
+
 9. Funções de strings;
+
+   
 
 _____
 
+##### Lógica de programação II:
 
+1. Tuplas; 
+2. Dicionários;
+3. Compreensão de listas e expressões geradoras;
+4. Parâmetros e retorno de funções;
+5. Conceitos de programação funcional; 
+6. Tratamento de Exceção; 
+7. Arquivos; 
 
-##### Técnicas de programação:											Técnicas de programação II: 
+_____
+
+##### Técnicas de programação:											
 
 1. Git e GitHub; 
 2. Numpy; 
@@ -30,13 +50,17 @@ _____
 
 _____
 
+##### Técnicas de programação II: 
 
+_____
 
-##### Banco de dados: 															 Visualização de dados com Power BI:
-
-
+##### Banco de dados: 															 
 
 ____
+
+##### Visualização de dados com Power BI:
+
+_____
 
 
 
