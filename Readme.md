@@ -1,8 +1,8 @@
-![unnamed](C:\Users\gusta\Desktop\unnamed.png)
+### <img src="https://lc-public-assets.s3.sa-east-1.amazonaws.com/images/processos-seletivos/suzano-diversidade-tech/thumb-metatag.png" alt="Diversidade Tech Suzano | Let's Code"  /> 
 
-###  :page_facing_up: Descrição do curso:
+### :page_facing_up: Descrição do curso:
 
-Esse curso foi oferecido pela Suzano <img src="https://media.glassdoor.com/sqll/245580/suzano-squareLogo-1647610639194.png" alt="Trabalhar na empresa Suzano | Glassdoor" style="zoom:15%;" /> em parceria com a (Let's code) ADA, sendo uma formação em Python e dados com duração de 4 meses e meio, dividido em 6 módulos, com aulas ao vivo em 3 dias da semana (Segunda - Quarta - Sexta) das 19:00Hrs às 22:00Hrs (Horário de Pernambuco). 
+Esse curso foi oferecido pela Suzano em parceria com a (Let's code) ADA, sendo uma formação em Python e dados com duração de 4 meses e meio, dividido em 6 módulos, com aulas ao vivo em 3 dias da semana (Segunda - Quarta - Sexta) das 19:00Hrs às 22:00Hrs (Horário de Pernambuco). 
 
 ### :white_check_mark: Conteúdo:
 
