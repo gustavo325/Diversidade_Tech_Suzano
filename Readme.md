@@ -62,7 +62,7 @@ _____
 
 ###  :file_folder:Estrutura de pastas:
 
-- **[Diversidade_Tech_Suzano](https://github.com/gustavo325/Diversidade_Tech_Suzano)/[(1) Lógica de programação I](https://github.com/gustavo325/Diversidade_Tech_Suzano/tree/master/(1) Lógica de programação I)/Exercícios/Exercícios 1**
+- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 1**
 
 Essa pasta contém os exercícios que foram resolvidos no 2º dia de aula, até esse momento os conteúdos vistos tinham sido: 
 
@@ -72,7 +72,7 @@ Essa pasta contém os exercícios que foram resolvidos no 2º dia de aula, até 
 
 
 
--  **[Diversidade_Tech_Suzano](https://github.com/gustavo325/Diversidade_Tech_Suzano)/[(1) Lógica de programação I](https://github.com/gustavo325/Diversidade_Tech_Suzano/tree/master/(1) Lógica de programação I)/Exercícios/Exercícios 2**
+-  **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 2**
 
 Exercícios que foram resolvidos no 3º dia de aula, os conteúdos vistos tinham sido: 
 
@@ -80,7 +80,7 @@ Exercícios que foram resolvidos no 3º dia de aula, os conteúdos vistos tinham
 
 
 
--  **[Diversidade_Tech_Suzano](https://github.com/gustavo325/Diversidade_Tech_Suzano)/[(1) Lógica de programação I](https://github.com/gustavo325/Diversidade_Tech_Suzano/tree/master/(1) Lógica de programação I)/Exercícios/Exercícios 3**
+-  **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 3**
 
 Exercícios que foram resolvidos no 4º dia de aula, os conteúdos vistos tinham sido: 
 
@@ -89,13 +89,13 @@ Exercícios que foram resolvidos no 4º dia de aula, os conteúdos vistos tinham
 
 
 
-- **[Diversidade_Tech_Suzano](https://github.com/gustavo325/Diversidade_Tech_Suzano)/[(1) Lógica de programação I](https://github.com/gustavo325/Diversidade_Tech_Suzano/tree/master/(1) Lógica de programação I)/Exercícios/Exercícios 4**
+- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 4**
 
 Exercícios relacionados a strings e formas personalizadas de impressão.
 
 
 
-- **[Diversidade_Tech_Suzano](https://github.com/gustavo325/Diversidade_Tech_Suzano)/[(1) Lógica de programação I](https://github.com/gustavo325/Diversidade_Tech_Suzano/tree/master/(1) Lógica de programação I)/Projeto**
+- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Projeto**
 
 Essa pasta contém o primeiro projeto do curso, feito em grupo (participantes mencionados na aba abaixo). Descrição do projeto: Sistema de cadastro de aulas com as seguintes condições: 
 
