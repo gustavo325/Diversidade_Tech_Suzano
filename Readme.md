@@ -6,27 +6,21 @@ Esse curso foi oferecido pela Suzano em parceria com a (Let's code) ADA, sendo u
 
 ### :white_check_mark: Conteúdo:
 
+
+
 ##### Lógica de programação:                                                
 
 1. Variáveis, entradas e saídas;                                        
-
 2. Operações lógicas;                                                          
-
-3. Expressões condicionais;                                              
-
+3. Expressões condicionais;
 4. Malhas de repetição condicionais;                               
-
 5. Malhas de repetição com contador;                           
-
 6. Listas;                                                                                
-
 7. Funções de listas;                                                          
-
 8. Strings;                                                                             
-
 9. Funções de strings;
 
-   
+
 
 _____
 
