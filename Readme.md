@@ -62,7 +62,7 @@ _____
 
 ###  :file_folder:Estrutura de pastas:
 
-- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 1**
+- **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Exercícios/Exercícios 1**
 
 Essa pasta contém os exercícios que foram resolvidos no 2º dia de aula, até esse momento os conteúdos vistos tinham sido: 
 
@@ -72,7 +72,7 @@ Essa pasta contém os exercícios que foram resolvidos no 2º dia de aula, até 
 
 ____
 
-- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 2**
+- **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Exercícios/Exercícios 2**
 
 Exercícios que foram resolvidos no 3º dia de aula, os conteúdos vistos tinham sido: 
 
@@ -80,7 +80,7 @@ Exercícios que foram resolvidos no 3º dia de aula, os conteúdos vistos tinham
 
 ____
 
-- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 3**
+- **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Exercícios/Exercícios 3**
 
 Exercícios que foram resolvidos no 4º dia de aula, os conteúdos vistos tinham sido: 
 
@@ -89,25 +89,35 @@ Exercícios que foram resolvidos no 4º dia de aula, os conteúdos vistos tinham
 
 _____
 
-- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Exercícios/Exercícios 4**
+- **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Exercícios/Exercícios 4**
 
-Exercícios relacionados a strings e formas personalizadas de impressão.
+Exercícios relacionados a strings e formas personalizadas de impressão;
 
 ________________________
 
-- **Diversidade_Tech_Suzano/(1) Lógica de programação I/Projeto**
+- **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Projeto**
 
 Essa pasta contém o primeiro projeto do curso, feito em grupo. Detalhes no arquivo Readme.md;
 
 _____
 
-- **Diversidade_Tech_Suzano/(2) Lógica de programação II/Projeto**
+- **Diversidade_Tech_Suzano/2_Lógica_de_programação_II/Projeto**
 
 Essa pasta contém o segundo projeto do curso, feito em grupo. Detalhes no arquivo Readme.md;
 
 _____
 
+- **Diversidade_Tech_Suzano/2_Lógica_de_programação_II/Exercícios**
 
+Exercícios realizados durante o módulo do curso;
+
+- **Diversidade_Tech_Suzano/3_Técnicas_de_programação_I/Exercícios**
+
+Exercícios realizados no começo do curso com Numpy.array; 
+
+- **https://github.com/gustavo325/Projeto_3_Suzano**
+
+Repositório que contém o projeto 3 realizado no curso e a descrição no arquivo readme.md; 
 
 ### 👨 Autor:
 
