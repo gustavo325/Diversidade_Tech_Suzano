@@ -111,13 +111,21 @@ _____
 
 Exercícios realizados durante o módulo do curso;
 
+____
+
 - **Diversidade_Tech_Suzano/3_Técnicas_de_programação_I/Exercícios**
 
 Exercícios realizados no começo do curso com Numpy.array; 
 
+_____
+
 - **https://github.com/gustavo325/Projeto_3_Suzano**
 
 Repositório que contém o projeto 3 realizado no curso e a descrição no arquivo readme.md; 
+
+_____
+
+
 
 ### 👨 Autor:
 
