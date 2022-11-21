@@ -73,10 +73,10 @@ ____
   - Linkedin: https://br.linkedin.com/in/joelsons 
 - Jhaidan Ribeiro 
   - Linkedin: https://br.linkedin.com/in/jhaidan42
+- Gustavo Henrique Siqueira
+  - Linkedin: www.linkedin.com/in/gustavo-henriques
 
 ____
-
-
 
 
 
