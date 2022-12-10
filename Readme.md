@@ -48,6 +48,13 @@ _____
 
 ##### Técnicas de programação II: 
 
+1. Introdução aos gráficos;
+2. Pandas;
+3. Matplotlib;
+4. Seaborn;
+5. Plotly;
+6. Stramlit; 
+
 _____
 
 ##### Banco de dados: 															 
@@ -125,7 +132,23 @@ Repositório que contém o projeto 3 realizado no curso e a descrição no arqui
 
 _____
 
+- **https://github.com/Yanasants/project_IV_divtech**
 
+Repositório que contém o projeto 4 (completo); 
+
+______
+
+- **Diversidade_Tech_Suzano/3_Técnicas_de_programação_II/Projeto**
+
+Contém o Readme explicando a minha parte da análise de dados do projeto e o código;
+
+​	Bibliotecas utilizadas: 
+
+- Pandas (plot);
+- Matplotlib; 
+- Plotly (plot); 
+
+_____
 
 ### 👨 Autor:
 
