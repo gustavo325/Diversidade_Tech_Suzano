@@ -57,7 +57,13 @@ _____
 
 _____
 
-##### Banco de dados: 															 
+##### Banco de dados: 		
+
+1.  Modelagem de dados; 
+2. SQL; 
+3. Constraints; 
+4. Subquery; 
+5. Otimização de consultas no banco de dados; 
 
 ____
 
