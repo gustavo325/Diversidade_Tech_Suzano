@@ -69,6 +69,16 @@ ____
 
 ##### Visualização de dados com Power BI:
 
+1. Configurando o Power BI;
+2. Primeiras visualizações;
+3. Filtros no POWER BI;
+4. Praticando o POWER BI;
+5. Praticando o POWER BI;
+6. DAX:
+7. DASHBOARD no POWER BI;
+8. Revisão POWER BI;
+9. Avaliações e apresentação do projeto final;
+
 _____
 
 
@@ -110,13 +120,13 @@ ________________________
 
 - **Diversidade_Tech_Suzano/1_Lógica_de_programação_I/Projeto**
 
-Essa pasta contém o primeiro projeto do curso, feito em grupo. Detalhes no arquivo Readme.md;
+Essa pasta contém o primeiro projeto do curso, feito em grupo. Detalhes no arquivo Readme;
 
 _____
 
 - **Diversidade_Tech_Suzano/2_Lógica_de_programação_II/Projeto**
 
-Essa pasta contém o segundo projeto do curso, feito em grupo. Detalhes no arquivo Readme.md;
+Essa pasta contém o segundo projeto do curso, feito em grupo. Detalhes no arquivo Readme;
 
 _____
 
@@ -128,13 +138,13 @@ ____
 
 - **Diversidade_Tech_Suzano/3_Técnicas_de_programação_I/Exercícios**
 
-Exercícios realizados no começo do curso com Numpy.array; 
+Exercícios realizados no começo do módulo com Numpy.array; 
 
 _____
 
 - **https://github.com/gustavo325/Projeto_3_Suzano**
 
-Repositório que contém o projeto 3 realizado no curso e a descrição no arquivo readme.md; 
+Repositório que contém o projeto 3 realizado no curso e a descrição no arquivo Readme; 
 
 _____
 
@@ -144,7 +154,7 @@ Repositório que contém o projeto 4 (completo);
 
 ______
 
-- **Diversidade_Tech_Suzano/3_Técnicas_de_programação_II/Projeto**
+- **Diversidade_Tech_Suzano/4_Técnicas_de_programação_II/Projeto**
 
 Contém o Readme explicando a minha parte da análise de dados do projeto e o código;
 
@@ -155,6 +165,20 @@ Contém o Readme explicando a minha parte da análise de dados do projeto e o c�
 - Plotly (plot); 
 
 _____
+
+- **Diversidade_Tech_Suzano/5_Banco_de_dados/Atividade**
+
+____
+
+- **Diversidade_Tech_Suzano/5_Banco_de_dados/Projeto**
+
+______
+
+- **Diversidade_Tech_Suzano/6_PowerBI/Atividades**
+
+Contém as atividades que foram realizadas durante o módulo de Power BI, separadas em um exercício por pasta, com seus respectivos Readme explicando os detalhes de cada atividade;
+
+______
 
 ### 👨 Autor:
 
