@@ -22,7 +22,7 @@ _____
 6. Listas;                                                                                
 7. Funções de listas;                                                          
 8. Strings;                                                                             
-9. Funções de strings;
+9. Funções de strings. 
 
 _____
 
@@ -34,7 +34,7 @@ _____
 4. Parâmetros e retorno de funções;
 5. Conceitos de programação funcional; 
 6. Tratamento de Exceção; 
-7. Arquivos; 
+7. Arquivos. 
 
 _____
 
@@ -42,7 +42,7 @@ _____
 
 1. Git e GitHub; 
 2. Numpy; 
-3. Pandas;
+3. Pandas. 
 
 _____
 
@@ -53,7 +53,7 @@ _____
 3. Matplotlib;
 4. Seaborn;
 5. Plotly;
-6. Stramlit; 
+6. Stramlit. 
 
 _____
 
@@ -63,7 +63,7 @@ _____
 2. SQL; 
 3. Constraints; 
 4. Subquery; 
-5. Otimização de consultas no banco de dados; 
+5. Otimização de consultas no banco de dados. 
 
 ____
 
@@ -77,7 +77,7 @@ ____
 6. DAX:
 7. DASHBOARD no POWER BI;
 8. Revisão POWER BI;
-9. Avaliações e apresentação do projeto final;
+9. Avaliações e apresentação do projeto final. 
 
 _____
 
@@ -91,7 +91,7 @@ Essa pasta contém os exercícios que foram resolvidos no 2º dia de aula, até 
 
 1. Variáveis;
 2. Tipos de variáveis; 
-3. Condicionais; 
+3. Condicionais. 
 
 ____
 
@@ -99,7 +99,7 @@ ____
 
 Exercícios que foram resolvidos no 3º dia de aula, os conteúdos vistos tinham sido: 
 
-1. Loop While; 
+1. Loop While. 
 
 ____
 
@@ -108,7 +108,7 @@ ____
 Exercícios que foram resolvidos no 4º dia de aula, os conteúdos vistos tinham sido: 
 
 1. Lista; 
-2. Loop For;
+2. Loop For. 
 
 _____
 
@@ -162,21 +162,30 @@ Contém o Readme explicando a minha parte da análise de dados do projeto e o c�
 
 - Pandas (plot);
 - Matplotlib; 
-- Plotly (plot); 
+- Plotly (plot). 
 
 _____
 
 - **Diversidade_Tech_Suzano/5_Banco_de_dados/Atividade**
 
+  Contém atividade de modelagem de banco de dados: 
+
+  - Modelo lógico; 
+  - Físico; 
+  - Conceitual. 
+
+
 ____
 
 - **Diversidade_Tech_Suzano/5_Banco_de_dados/Projeto**
+
+Repositório referente ao projeto realizado no fim do módulo (detalhes no arquivo Readme dentro da pasta). 
 
 ______
 
 - **Diversidade_Tech_Suzano/6_PowerBI/Atividades**
 
-Contém as atividades que foram realizadas durante o módulo de Power BI, separadas em um exercício por pasta, com seus respectivos Readme explicando os detalhes de cada atividade;
+Contém as atividades que foram realizadas durante o módulo de Power BI, separadas em um exercício por pasta, com seus respectivos Readme explicando os detalhes de cada atividade. 
 
 ______
 
