@@ -26,4 +26,6 @@ ______
     - **Análises:** 
       - Média de tentativas de gols. 
   
+  ______
+  
   **OBS: as metas dos gráficos foram geradas aleatoriamente apenas para demonstração de sua funcionalidade.**
