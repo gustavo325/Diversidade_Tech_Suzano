@@ -168,9 +168,13 @@ _____
 
 - **Diversidade_Tech_Suzano/5_Banco_de_dados/Atividade**
 
+Contém as atividades realizadas durante o módulo e um Readme com o enunciado.
+
 ____
 
 - **Diversidade_Tech_Suzano/5_Banco_de_dados/Projeto**
+
+Projeto final Banco de dados. 
 
 ______
 
@@ -179,6 +183,12 @@ ______
 Contém as atividades que foram realizadas durante o módulo de Power BI, separadas em um exercício por pasta, com seus respectivos Readme explicando os detalhes de cada atividade;
 
 ______
+
+- **Diversidade_Tech_Suzano/6_PowerBI/Projeto**
+
+Projeto final Power BI. 
+
+_____
 
 ### 👨 Autor:
 
